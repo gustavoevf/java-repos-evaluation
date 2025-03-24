@@ -1,0 +1,3 @@
+# Ignore all variables.csv files in analysis_results subdirectories
+analysis_results/**/*variable.csv
+analysis_results/**/*field.csv
