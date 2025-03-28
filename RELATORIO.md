@@ -36,3 +36,11 @@ RQ 04. Qual a relação entre o tamanho dos repositórios e as suas característ
 qualidade? 
 
 ---
+
+Visualização dos Dados
+
+---
+
+Resultados
+
+---
