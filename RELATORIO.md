@@ -20,21 +20,25 @@ Grupo: Eduardo Junqueira, Felipe Cassimiro, Gustavo Evaristo;
 RQ 01. Qual a relação entre a popularidade dos repositórios e as suas características de
 qualidade?
 
+Análises:
 ---
 
 RQ 02. Qual a relação entre a maturidade do repositórios e as suas características de
 qualidade ?
 
+Análises:
 ---
 
 RQ 03. Qual a relação entre a atividade dos repositórios e as suas características de
 qualidade?
 
+Análises:
 ---
 
 RQ 04. Qual a relação entre o tamanho dos repositórios e as suas características de
 qualidade? 
 
+Análises:
 ---
 
 Metodologia
