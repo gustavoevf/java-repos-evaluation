@@ -62,6 +62,22 @@ Usamos a biblioteca CK para a análise dos códigos em Java e os scripts foram p
 
 Visualização dos Dados
 
+![Imagem](analyticsImages/matVsCbo.png)
+![Imagem](analyticsImages/atiVsRfc.png)
+![Imagem](analyticsImages/atiVsCbo.png)
+![Imagem](analyticsImages/atiVsWmc.png)
+![Imagem](analyticsImages/matVsRfc.png)
+![Imagem](analyticsImages/matVsWmc.png)
+![Imagem](analyticsImages/popVsCbo.png)
+![Imagem](analyticsImages/popVsRfc.png)
+![Imagem](analyticsImages/popVsWmc.png)
+![Imagem](analyticsImages/tamVsCbo.png)
+![Imagem](analyticsImages/tamVsDit.png)
+![Imagem](analyticsImages/tamVsLcom.png)
+![Imagem](analyticsImages/tamVsLcom.png)
+![Imagem](analyticsImages/tamVsRfc.png)
+![Imagem](analyticsImages/tamVsWmc.png)
+
 ---
 
 Resultados
