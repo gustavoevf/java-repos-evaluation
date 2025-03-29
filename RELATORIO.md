@@ -20,25 +20,21 @@ Grupo: Eduardo Junqueira, Felipe Cassimiro, Gustavo Evaristo;
 RQ 01. Qual a relação entre a popularidade dos repositórios e as suas características de
 qualidade?
 
-Análises:
 ---
 
 RQ 02. Qual a relação entre a maturidade do repositórios e as suas características de
 qualidade ?
 
-Análises:
 ---
 
 RQ 03. Qual a relação entre a atividade dos repositórios e as suas características de
 qualidade?
 
-Análises:
 ---
 
 RQ 04. Qual a relação entre o tamanho dos repositórios e as suas características de
 qualidade? 
 
-Análises:
 ---
 
 Metodologia
@@ -63,23 +59,24 @@ Usamos a biblioteca CK para a análise dos códigos em Java e os scripts foram p
 Visualização dos Dados
 
 ![Imagem](analyticsImages/matVsCbo.png)
-![Imagem](analyticsImages/atiVsRfc.png)
 ![Imagem](analyticsImages/atiVsCbo.png)
 ![Imagem](analyticsImages/atiVsWmc.png)
-![Imagem](analyticsImages/matVsRfc.png)
 ![Imagem](analyticsImages/matVsWmc.png)
 ![Imagem](analyticsImages/popVsCbo.png)
-![Imagem](analyticsImages/popVsRfc.png)
 ![Imagem](analyticsImages/popVsWmc.png)
 ![Imagem](analyticsImages/tamVsCbo.png)
 ![Imagem](analyticsImages/tamVsDit.png)
 ![Imagem](analyticsImages/tamVsLcom.png)
 ![Imagem](analyticsImages/tamVsLcom.png)
-![Imagem](analyticsImages/tamVsRfc.png)
 ![Imagem](analyticsImages/tamVsWmc.png)
+![Imagem](analyticsImages/popVsDit.png)
+![Imagem](analyticsImages/atiVsDit.png)
+![Imagem](analyticsImages/matVsDit.png)
 
 ---
 
 Resultados
 
+Os resultados das RQs foram parcialmente conclusivos, na RQs de 1 a 4. Sendo algum afirmativos e outros não.
+  
 ---
