@@ -56,6 +56,8 @@ CBO (Coupling between Objects): Mede o acoplamento entre objetos. Quanto maior o
 DIT (Depth Inheritance Tree): Mede a profundidade da árvore de herança. Uma maior profundidade pode indicar um design mais complexo e de difícil manutenção.
 LCOM (Lack of Cohesion of Methods): Mede a coesão dos métodos dentro de uma classe. Valores mais altos indicam uma classe com métodos mal organizados, o que pode afetar a legibilidade e manutenibilidade do código.
 
+Usamos a biblioteca CK para a análise dos códigos em Java e os scripts foram programados em Python 
+
 ---
 
 Visualização dos Dados
